@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+<!--*Francieli*
+- colégio: Colégio Estadual Corumbataí do Sul EFM
+- Linguagem de programação: 
+- Email: francieli.dalsente.almeida@escola.pr.gov.br
+
+
+
+
 **Francielidalmeida/Francielidalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
