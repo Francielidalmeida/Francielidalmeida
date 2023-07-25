@@ -1,23 +1,12 @@
-### Hi there 👋
+Olá 👋
 
-<!--*Francieli*
-- colégio: Colégio Estadual Corumbataí do Sul EFM
-- Linguagem de programação: 
+** Meu nome é Francieli Dalsente de Almeida** 💟
+- Colégio: Colégio Estadual Corumbataí do Sul EFM
+- Linguagem de programação 
 - Email: francieli.dalsente.almeida@escola.pr.gov.br
+  
+  ![](https://media.tenor.com/EUcp4yzWOnkAAAAd/barbie-and-the-rockers-barbie.gif)
+ 
 
 
 
-
-**Francielidalmeida/Francielidalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
