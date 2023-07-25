@@ -5,7 +5,7 @@ Olá 👋
 - Linguagem de programação 
 - Email: francieli.dalsente.almeida@escola.pr.gov.br
 ![](https://media.tenor.com/EUcp4yzWOnkAAAAd/barbie-and-the-rockers-barbie.gif)
- 
+
 
 
 
